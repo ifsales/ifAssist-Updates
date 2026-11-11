@@ -1,0 +1,23 @@
+{
+    "produto":  "IfAssist",
+    "versao":  "6.2.0.0",
+    "data":  "2026-11-11",
+    "titulo":  "IfAssist 6.2.0.0",
+    "download":  "https://github.com/ifsales/ifAssist-Updates/releases/download/v6.2.0.0/IfAssist_Setup_6.2.0.0.exe",
+    "arquivo":  "IfAssist_Setup_6.2.0.0.exe",
+    "sha256":  "f107352733244e588927bbee714bd0d5b1a39d53ed9f1bb26c6824d271c4be09",
+    "portable":  {
+                     "arquivo":  "IfAssist_Portable_6.2.0.0.zip",
+                     "download":  "https://github.com/ifsales/ifAssist-Updates/releases/download/v6.2.0.0/IfAssist_Portable_6.2.0.0.zip",
+                     "sha256":  "a59efb7cdf40c5f05324794047578ecee969226633b62eb727d7fec2bb81d74d"
+                 },
+    "obrigatoria":  false,
+    "descricao":  [
+                      "Atualização automática: o programa avisa quando há versão nova e se instala ao fechar",
+                      "Modo Terminal: terminais reais (PowerShell, cmd, Git Bash) com explorador de pastas",
+                      "Agentes de IA: instala e abre Claude, Codex e Gemini CLI com um clique",
+                      "IAs em conjunto: revisão e modo Híbrido, com cópia de segurança e Desfazer tudo",
+                      "\"Abrir no IfAssist\" no botão direito das pastas do Explorer",
+                      "Correção: \"codex não é reconhecido\" ao abrir o agente pelo painel"
+                  ]
+}
